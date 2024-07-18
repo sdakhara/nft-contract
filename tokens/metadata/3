@@ -1,0 +1,38 @@
+{
+	"name": "Azuki #1316",
+	"image": "ipfs://QmQ1v4uSq4c2hBssd2v8AzatcoKFQWnn6TuJWn6rtL6uDC/3.png",
+	"attributes": [
+		{
+			"trait_type": "Type",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Blue Samurai"
+		},
+		{
+			"trait_type": "Headgear",
+			"value": "Red Panda Baseball Cap"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Kimono with Jacket"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Closed"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sleep Bubble"
+		},
+		{
+			"trait_type": "Offhand",
+			"value": "Monkey King Staff"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Off White D"
+		}
+	]
+}

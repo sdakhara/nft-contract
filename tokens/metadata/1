@@ -1,0 +1,38 @@
+{
+	"name": "Azuki #1314",
+	"image": "ipfs://QmQ1v4uSq4c2hBssd2v8AzatcoKFQWnn6TuJWn6rtL6uDC/1.png",
+	"attributes": [
+		{
+			"trait_type": "Type",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Indigo Pixie"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Round Purple Sunglasses"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Red Floral Kimono"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Closed"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Laughing"
+		},
+		{
+			"trait_type": "Offhand",
+			"value": "Boombox"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Off White B"
+		}
+	]
+}

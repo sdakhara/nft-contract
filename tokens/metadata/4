@@ -1,0 +1,42 @@
+{
+	"name": "Azuki #1317",
+	"image": "ipfs://QmQ1v4uSq4c2hBssd2v8AzatcoKFQWnn6TuJWn6rtL6uDC/4.png",
+	"attributes": [
+		{
+			"trait_type": "Type",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Teal Bangs"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Kabuki Facepaint"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "Chill Headphones"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Pink Oversized Kimono"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Closed"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sleep Bubble"
+		},
+		{
+			"trait_type": "Offhand",
+			"value": "Hook Sword"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Red"
+		}
+	]
+}

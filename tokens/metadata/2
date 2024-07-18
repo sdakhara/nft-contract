@@ -1,0 +1,38 @@
+{
+	"name": "Azuki #1315",
+	"image": "ipfs://QmQ1v4uSq4c2hBssd2v8AzatcoKFQWnn6TuJWn6rtL6uDC/2.png",
+	"attributes": [
+		{
+			"trait_type": "Type",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Silver Bob"
+		},
+		{
+			"trait_type": "Headgear",
+			"value": "Beret"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Heart Eye Patch"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Tank Top with Jacket"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Closed"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Closed"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Cool Gray"
+		}
+	]
+}
